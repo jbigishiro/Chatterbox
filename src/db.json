@@ -1,34 +1,138 @@
 {
-    "messages": [
-      {
-        "id": 1,
-        "body": "Hello 👋",
-        "username": "Ian",
-        "created_at": "2021-01-07T09:15:27"
-      },
-      {
-        "id": 2,
-        "body": "Hi!",
+  "messages": [
+    {
+      "id": 1,
+      "body": "Hello 👋",
+      "username": "Ian",
+      "created_at": "2021-01-07T09:15:27"
+    },
+    {
+      "id": 2,
+      "body": "Hi!",
+      "username": "Duane",
+      "created_at": "2021-01-07T09:16:37"
+    },
+    {
+      "id": 3,
+      "body": "let's get this chat app working",
+      "username": "Ian",
+      "created_at": "2021-01-07T09:16:50"
+    },
+    {
+      "id": 4,
+      "body": "ngl, this looks like a lot 😬",
+      "username": "Duane",
+      "created_at": "2021-01-07T09:20:10"
+    },
+    {
+      "id": 5,
+      "body": "You got this! 💪",
+      "username": "Ian",
+      "created_at": "2021-01-07T09:21:11"
+    },
+    {
+      "message": {
         "username": "Duane",
-        "created_at": "2021-01-07T09:16:37"
+        "body": "assdd",
+        "created_at": "1:17:21 AM"
       },
-      {
-        "id": 3,
-        "body": "let's get this chat app working",
-        "username": "Ian",
-        "created_at": "2021-01-07T09:16:50"
-      },
-      {
-        "id": 4,
-        "body": "ngl, this looks like a lot 😬",
+      "id": 6
+    },
+    {
+      "message": {
         "username": "Duane",
-        "created_at": "2021-01-07T09:20:10"
+        "body": "asddff",
+        "created_at": "Sun, 26 Nov 2023 07:18:37 GMT"
       },
-      {
-        "id": 5,
-        "body": "You got this! 💪",
-        "username": "Ian",
-        "created_at": "2021-01-07T09:21:11"
-      }
-    ]
-  }
+      "id": 7
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "desftg",
+        "created_at": "2023-11-26T07:19:56.536Z"
+      },
+      "id": 8
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "fggffffggdfrtg",
+        "created_at": "2023-11-26T07:21:02.949Z"
+      },
+      "id": 9
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "hshhshshshsh",
+        "created_at": "2023-11-26T07:30:40.002Z"
+      },
+      "id": 10
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "snxnxnddjxnxnxnxnx",
+        "created_at": "2023-11-26T07:30:46.008Z"
+      },
+      "id": 11
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "dbddhddsjsjsjs",
+        "created_at": "2023-11-26T07:30:50.686Z"
+      },
+      "id": 12
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "",
+        "created_at": "2023-11-26T07:30:54.038Z"
+      },
+      "id": 13
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "hshssjjsjsj",
+        "created_at": "2023-11-26T07:30:57.167Z"
+      },
+      "id": 14
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "hello",
+        "created_at": "2023-11-26T08:14:16.918Z"
+      },
+      "id": 15
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "heeeeelo",
+        "created_at": "2023-11-26T08:30:31.885Z"
+      },
+      "id": 16
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "gghhhjj",
+        "created_at": "2023-11-26T08:37:34.883Z"
+      },
+      "id": 17
+    },
+    {
+      "message": {
+        "username": "Duane",
+        "body": "sdefrgthhhh",
+        "created_at": "2023-11-26T08:48:08.429Z"
+      },
+      "id": 18
+    }
+  ]
+}

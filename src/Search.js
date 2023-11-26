@@ -1,6 +1,6 @@
 import React from "react";
 
-function Search() {
+function Search({ search, onSearchChange }) {
   return (
     <nav>
       <input
@@ -8,6 +8,8 @@ function Search() {
         name="search"
         placeholder="Search..."
         autoComplete="off"
+        value={search}
+        onChange={e => onSearchChange(e.target.value)}
       />
     </nav>
   );

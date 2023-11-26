@@ -1,15 +1,8 @@
-import React, {useEffect, useState} from "react";
+import React from "react";
 import Message from "./Message"
 
-function MessageList() {
-  const [messages, setMessages] = useState([])
-
-  useEffect(() => {
-    fetch("http://localhost:4000/messages")
-        .then(r => r.json())
-        .then((messages) => setMessages(messages))
-  }, [])
-
+function MessageList({messages}) {
+ 
   return (
     <div className="list">
       <ul>{messages.map(message => 
